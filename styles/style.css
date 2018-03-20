@@ -1218,6 +1218,7 @@ h6,
   font-weight: 400;
   line-height: 1.1;
   color: inherit;
+  text-align: center;
 }
 h1 small,
 h2 small,
@@ -7052,6 +7053,7 @@ article .author  {
   font-size: 100%;
   line-height: 1.42857143;
   color: #b4bcc2;
+  text-align: right;
 }
 article .author  {
   content: '\2014 \00A0';
